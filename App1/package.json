@@ -1,0 +1,16 @@
+{
+  "name": "Accident Chart",
+  "productName": "Fatal Month Line Chart",
+  "version": "0.1.1",
+  "author": "Md Johirul Islam <mislam@iastate.edu>",
+  "description": "Displays the number of accidents in each month as a pie chart.",
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "icon": {
+  	"type": "fa",
+  	"name": "pie-chart"
+  }
+}
